@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "versioned-structs",
+    "versioned-structs-tests",
+]
